@@ -1,0 +1,6 @@
+.zshrc
+.viminfo
+.cache
+.config
+.npm
+node_modules
